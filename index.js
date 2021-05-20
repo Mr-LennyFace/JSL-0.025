@@ -29,3 +29,7 @@ console.log(ARRAY);
 var some = '';
 some = array[0][0];
 console.log(some);
+
+ARRAY.push([666, 777]);
+
+console.log(ARRAY);
