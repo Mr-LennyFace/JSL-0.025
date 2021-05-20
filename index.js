@@ -33,3 +33,10 @@ console.log(some);
 ARRAY.push([666, 777]);
 
 console.log(ARRAY);
+
+console.log(ARRAY.pop());
+
+console.log(ARRAY);
+
+/* (array).shift() removes the first index of the array, 
+(array).unshift() adds a index in the begining of the array */
